@@ -1,0 +1,41 @@
+/* Element Selector */
+/* p{
+    color: red;
+} */
+
+/* class Selector */
+/* .second{
+    color: burlywood;
+} */
+
+/* Id Selector */
+
+/* #apple{
+    color: chartreuse;
+} */
+
+/* Universal Selectotor */
+/* *{
+    color: chocolate;
+} */
+
+
+
+
+
+
+/*CSS Basic Syntax */
+
+/* 
+
+selector {
+     property : value;
+}
+
+
+*/
+
+
+h1{
+    color: red;
+}
