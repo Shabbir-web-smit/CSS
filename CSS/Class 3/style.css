@@ -1,0 +1,20 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+a{
+color: black;
+text-decoration: none; 
+margin-left: 10px;
+font-weight: 700;
+}
+.first {
+margin: 35px;
+}
+.second{
+margin-left: 750px;
+}
+.first b i{
+font-size: 32px;
+}
